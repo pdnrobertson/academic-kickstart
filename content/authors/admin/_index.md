@@ -21,9 +21,9 @@ organizations:
 bio: Evidence-informed practice in mathematics and science. Education as a means and an ends.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Evidence-informed practice
+- Mastery
+- Technology
 
 education:
   courses:
