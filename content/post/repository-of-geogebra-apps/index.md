@@ -14,6 +14,7 @@ image:
 
 * [Moving Mean](https://www.geogebra.org/m/whxwwvzf)
 * [Moving Median](https://www.geogebra.org/m/p9zqn7nc)
+* [Least Squares Regression WalkThrough](https://www.geogebra.org/m/r35gcn6u)
 
 ## Calculus
 
@@ -24,7 +25,5 @@ image:
 ## Geometry and Trigonometry
 
 * [Trigonometric Ratios from the Unit Circle](https://www.geogebra.org/m/wb3vmqvg) (under construction)
-
-
 
 Feel free to leave comments with feedback/suggestions/recommendations.
