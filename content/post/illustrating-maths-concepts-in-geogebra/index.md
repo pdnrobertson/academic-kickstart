@@ -47,19 +47,4 @@ Additionally, I am keeping in mind how these apps will be presented to students,
 
 # Repository
 
-This endeavour presents an intellectual challenge both pedagogically and intellectually.This page will contain links to GeoGebra apps that I have constructed (and continue to play around with). Any feedback/comments are welcome.
-
-## Statistics
-
-* [Moving Mean](https://www.geogebra.org/m/whxwwvzf)
-* [Moving Median](https://www.geogebra.org/m/p9zqn7nc)
-
-## Calculus
-
-* [Instantaneous Slope from First Principles](https://www.geogebra.org/m/dvxbcmud)
-* [Rectangle Integral Approximation](https://www.geogebra.org/m/rgtjuqn7) (under construction)
-* [Graph of the Derivative](https://www.geogebra.org/m/zv6fkbgb)
-
-## Geometry and Trigonometry
-
-* [Trigonometric Ratios from the Unit Circle](https://www.geogebra.org/m/wb3vmqvg) (under construction)
+This endeavour presents an intellectual challenge both pedagogically and intellectually. [This page](https://patrickrobertson.netlify.com/post/repository-of-geogebra-apps/) will contain links to GeoGebra apps that I have constructed (and continue to play around with). Any feedback/comments are welcome.
