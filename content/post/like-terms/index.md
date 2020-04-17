@@ -1,6 +1,6 @@
 ---
 title: Like Terms
-date: 2020-04-02T01:48:22.638Z
+date: 2020-04-17T09:52:09.741Z
 subtitle: Teaching like terms through minimally different examples and non-examples.
 summary: Avoiding definitions and getting to the maths.
 draft: true
