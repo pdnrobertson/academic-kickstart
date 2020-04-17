@@ -5,6 +5,11 @@ subtitle: Teaching like terms through minimally different examples and non-examp
 summary: Avoiding definitions and getting to the maths.
 draft: true
 featured: false
+tags:
+  - teaching
+  - concept
+categories:
+  - maths
 image:
   filename: featured
   focal_point: Smart
